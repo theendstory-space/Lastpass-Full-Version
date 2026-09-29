@@ -242,4 +242,4 @@ This repository serves as the official landing page for LastPass. The software i
 **Get the most recent version of LastPass today!**
 
 ---
-**Last updated:** 2026-09-28 23:43:02 UTC
+**Last updated:** 2026-09-29 04:22:53 UTC
